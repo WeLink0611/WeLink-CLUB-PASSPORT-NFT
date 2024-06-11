@@ -1,0 +1,13 @@
+{
+  "name": "WeLink CLUB PASSPORT #001",
+  "description": "Save it, you will have a big surprise.",
+  "image": "https://github.com/WeLink0611/WeLink-CLUB-PASSPORT-NFT/raw/main/NFT%20mteadatas/files/image%20common.png",
+  "content_type": "mp4",
+  "content_url": "https://github.com/WeLink0611/WeLink-CLUB-PASSPORT-NFT/raw/main/NFT%20mteadatas/files/video%20common.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
