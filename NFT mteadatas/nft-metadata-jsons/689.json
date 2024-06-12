@@ -2,7 +2,7 @@
     "name": "WeLink CLUB PASSPORT #690",
     "description": "Save it, you will have a big surprise.",
     "image": "https://welink-fi.s3.ap-southeast-1.amazonaws.com/image+common.png",
-    "content_type": "mp4",
+    "content_type": "video/mp4",
     "content_url": "https://welink-fi.s3.ap-southeast-1.amazonaws.com/video+common.mp4",
     "attributes": [
         {
